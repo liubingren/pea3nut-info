@@ -1,0 +1,94 @@
+export var NormalRadarInfo =[
+    {
+        "label":"自我完整",
+        "value":135
+    },{
+        "label":"攻击性",
+        "value":90
+    },{
+        "label":"廉价感",
+        "value":75
+    },{
+        "label":"幸福感",
+        "value":30
+    },{
+        "label":"理性",
+        "value":125
+    },{
+        "label":"自敬感",
+        "value":115
+    }
+];
+export var JobRadarInfo =[
+    {
+        "label":"D",
+        "max":25,
+        "value":19
+    },{
+        "label":"I",
+        "max":25,
+        "value":3
+    },{
+        "label":"S",
+        "max":25,
+        "value":3
+    },{
+        "label":"C",
+        "max":25,
+        "value":15
+    }
+];
+export var SkillRadarInfo =[
+    {
+        "label":"CSS",
+        "max":120,
+        "value":88
+    },{
+        "label":"Java-\nScript",
+        "max":120,
+        "value":113
+    },{
+        "label":"Node.js",
+        "max":120,
+        "value":70
+    },{
+        "label":"PHP",
+        "max":120,
+        "value":65
+    },{
+        "label":"DB",
+        "max":120,
+        "value":60
+    },{
+        "label":"UI设计",
+        "max":120,
+        "value":82
+    }
+];
+export var AcgRadarInfo =[
+    {
+        "label":"生命",
+        "value":61,
+        "max":100,
+    },{
+        "label":"爱",
+        "value":23,
+        "max":100,
+    },{
+        "label":"恐惧",
+        "value":72,
+        "max":100,
+    },{
+        "label":"理性",
+        "value":85,
+        "max":100,
+    },{
+        "label":"疼痛",
+        "value":72,
+        "max":100,
+    },{
+        "label":"期望",
+        "value":10,
+        "max":100,
+    }
+];
