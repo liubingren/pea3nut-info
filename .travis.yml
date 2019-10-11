@@ -9,6 +9,6 @@ before_install:
 
 script:
   - npm run build
-  - echo "liu101937" | docker login -u "mrdabing/pea3nut-info" --password-stdin
+  - echo "liu101937" | docker login -u "mrdabing" --password-stdin
   - docker build -t mrdabing/pea3nut-info:latest .
   - docker push mrdabing/pea3nut-info:latest
